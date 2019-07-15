@@ -2,7 +2,8 @@
 # Coded by: thelinuxchoice (Don't change, noob!)
 # www.github.com/thelinuxchoice
 # www.instagram.com/linux_choice
-
+User name account : @elvaaas
+Pasword list
 trap 'store; exit 1;' 2
 
 counter=0
